@@ -1,4 +1,7 @@
 # HugoBot-backend
+
+Frontend - https://github.com/hugo-mp3/HugoBot-frontend
+
 Overview:
 The HugoBot Backend is a Node.js application that serves as the server-side component for the HugoBot project. It handles API requests, processes audio files, and generates lip-sync data. The backend integrates with various services, including OpenAI for chat responses and Eleven Labs for text-to-speech synthesis.
 
